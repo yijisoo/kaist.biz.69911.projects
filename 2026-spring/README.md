@@ -1,8 +1,5 @@
 # Spring 2026 — Term Projects
 
-KAIST College of Business **BIZ 69911**, Spring 2026 (March 7 – June 20, 2026).
-Fifteen teams, each shipping a working product. Browse the repositories and learn from one another's work.
-
 ← [Back to course hub](../README.md)
 
 ## Term Projects
