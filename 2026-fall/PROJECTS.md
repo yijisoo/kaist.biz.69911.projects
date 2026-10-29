@@ -18,7 +18,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 7 | Wine not? (주제 변경 검토 중) | 한국의 와인 초보가 마신 와인을 기록하며 자신의 취향을 알아가고 다음 와인을 고르도록 돕는 서비스를 기획합니다. | — | [wlstjr5817-cyber/kaist-team07-project](https://github.com/wlstjr5817-cyber/kaist-team07-project) |
 | 8 | 득근음료 · 청담음료 (가제) | 웰니스 유저와 헬창 유저가 제로·고단백 음료를 성분 기준으로 걸러서 비교하도록 돕는 웹 서비스입니다. | — | [donggyunlim0525-netizen/kaist-team08-project](https://github.com/donggyunlim0525-netizen/kaist-team08-project) |
 | 9 | Firm Engine | 개인회생 사건을 담당하는 로펌 근무자들을 위한 AI-Automation 서비스입니다. | — | [firmengine/firmengine](https://github.com/firmengine/firmengine) |
-| 10 | 복지용구 세컨드 오피니언 (주제 탐색 중) | 장기요양 등급을 막 받은 가족 보호자가 복지용구사업소의 제안을 판매 이해관계 없이 검토받도록 돕는 AI 서비스를 기획합니다. | — | [4kmba/ltc-caregivers](https://github.com/4kmba/ltc-caregivers) |
+| 10 | AI Care Decision Assistant | 장기요양 가족 보호자가 환자 상태나 돌봄 여건이 바뀔 때마다 지금 고를 수 있는 선택지와 필요한 제도·서비스를 다시 정리받아 스스로 결정하도록 돕는 AI 서비스를 기획합니다. | — | [4kmba/ltc-caregivers](https://github.com/4kmba/ltc-caregivers) |
 | 11 | Docdall | 책을 쓰고 싶지만 막막한 일반인이 주제 선정부터 집필, 탈고까지 AI의 피드백과 함께 스스로 완주하도록 돕는 서비스 | — | [mekhander/project-docdall](https://github.com/mekhander/project-docdall) |
 | 12 | Farmcare | 자녀와 함께 농촌 체험을 찾는 도시 가족이 AI 추천으로 체험을 고르고 예약하도록 돕고, 장기적으로 고령 농가의 농장 운영을 대신 관리하는 서비스입니다. | — | [editha0630/Farmcare](https://github.com/editha0630/Farmcare) |
 | 13 | SDR Agent | 중소 SaaS·AI 기업의 SDR이 리드 리서치·선별 같은 반복 영업 업무를 덜 수 있도록 돕는 AI 에이전트 프로토타입입니다. | — | [goodyyoung-cell/Team13_SDR-Agent](https://github.com/goodyyoung-cell/Team13_SDR-Agent) |
